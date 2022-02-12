@@ -1,7 +1,7 @@
 # opensubtitles-srt-ads-remover
 
 ## Description
-Easily delete all ads in srt files download from opensubtitles.org (search .srt in all subfolders from .py path)
+Easily delete all ads in srt files downloaded from opensubtitles.org (search .srt in all subfolders from .py path)
 
 ## Requirements
 ### Full (with logs)
