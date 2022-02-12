@@ -36,4 +36,4 @@ Log file :
 ```
 
 ## Screenshots
-![alt text](https://github.com/thomasdelorge/multiple-pdf-password-remover/blob/main/screenshot.png?raw=true "python console screenshot")
+![alt text](https://github.com/thomasdelorge/opensubtitles-srt-ads-remover/blob/main/screenshot.png?raw=true "python console screenshot")
