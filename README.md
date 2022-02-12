@@ -4,9 +4,11 @@
 Easily delete all ads in srt files download from opensubtitles.org (search .srt in all subfolders from .py path)
 
 ## Requirements
-1) Install pikepdf `pip install pikepdf`
-2) Install coloredlogs `pip install coloredlogs`
-3) Install pysrt `pip install pysrt`
+### Full (with logs)
+`pip install -r requirements.txt`
+
+### Lite (without logs)
+`pip install -r requirements-lite.txt`
 
 ## Warning
 This script will overwrite srt files !
@@ -24,7 +26,7 @@ C:.
         movie3.srt
 ```
 
-Log file :
+Log file (full version):
 ```
 [2022-02-12 22:57:46,910] [INFO] 1) File processing : movie1.fr.srt
 [2022-02-12 22:57:47,035] [INFO] Deletion of line 1 : 'Soutenez-nous et devenez membre VIP pour désactiver toutes les publicités sur www.OpenSubtitles.org'
