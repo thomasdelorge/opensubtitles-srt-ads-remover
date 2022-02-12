@@ -1,7 +1,7 @@
 # opensubtitles-srt-ads-remover
 
 ## Description
-Easily delete all ads in srt files download from opensubtitles.org
+Easily delete all ads in srt files download from opensubtitles.org (search .srt in all subfolders from .py path)
 
 ## Requirements
 1) Install pikepdf `pip install pikepdf`
